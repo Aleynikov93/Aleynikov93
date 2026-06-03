@@ -1,6 +1,6 @@
 # Алейников Сергей — QA Engineer
 
-[![Telegram](https://img.shields.io/badge/Telegram-@aleynikov93)](https://t.me/+79897203786)
+[![Telegram](https://img.shields.io/badge/Telegram-Aleynikov__Sergey-1B92CE?style=for-the-badge&logo=telegram)](@aleynikov93)
 [![Gmail](https://img.shields.io/badge/Gmail-Aleynikovsergey1993@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aleynikovsergey1993@gmail.com)
 
 ---
