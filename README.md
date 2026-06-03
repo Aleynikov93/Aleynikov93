@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28547429/README.md)
 # Алейников Сергей — QA Engineer
 
 [![Telegram](https://img.shields.io/badge/Telegram-Aleynikov__Sergey-1B92CE?style=for-the-badge&logo=telegram)](https://t.me/+79897203786)
